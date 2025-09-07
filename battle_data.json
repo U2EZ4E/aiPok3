@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757265273914,
+  "timestamp": 1757265527914,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
@@ -67,6 +67,6 @@
   "aiSettings": {
     "learningRate": 0.1,
     "explorationRate": 0.3,
-    "currentStrategy": "GoldenMantine"
+    "currentStrategy": "none"
   }
 }
