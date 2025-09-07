@@ -1,17 +1,72 @@
 {
-  "timestamp": 1757265034798,
+  "timestamp": 1757265072823,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
   "losses": 0,
   "winRate": 0,
-  "strategies": {},
-  "moveEffectiveness": {},
-  "pokemonPerformance": {},
-  "recentBattles": [],
+  "strategies": {
+    "Blastoise_GoldenMantine": {
+      "attempts": 4,
+      "wins": 0,
+      "losses": 0,
+      "avgTurns": 0,
+      "effectiveness": 0
+    }
+  },
+  "moveEffectiveness": {
+    "unknown": {
+      "uses": 4,
+      "effectiveness": 0,
+      "pokemon": "GoldenMantine"
+    }
+  },
+  "pokemonPerformance": {
+    "GoldenMantine": {
+      "battles": 4,
+      "wins": 0,
+      "losses": 0,
+      "effectiveness": 0,
+      "moves": {}
+    }
+  },
+  "recentBattles": [
+    {
+      "timestamp": 1757265053104,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "ShinyBlastoise used Water Pulse!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!",
+      "strategy": "GoldenMantine",
+      "action": "none"
+    },
+    {
+      "timestamp": 1757265058091,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "ShinyBlastoise used Powder Snow!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265063112,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine used Roost!GoldenMantine regained health!GoldenMantine took trap damage!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265068092,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!GoldenMantine took trap damage!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    }
+  ],
   "aiSettings": {
     "learningRate": 0.1,
     "explorationRate": 0.3,
-    "currentStrategy": "none"
+    "currentStrategy": "GoldenMantine"
   }
 }
