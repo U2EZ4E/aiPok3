@@ -1,5 +1,5 @@
 {
-  "timestamp": 0,
+  "timestamp": 1757264669912,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
@@ -9,5 +9,9 @@
   "moveEffectiveness": {},
   "pokemonPerformance": {},
   "recentBattles": [],
-  "aiSettings": {}
+  "aiSettings": {
+    "learningRate": 0.1,
+    "explorationRate": 0.3,
+    "currentStrategy": "none"
+  }
 }
