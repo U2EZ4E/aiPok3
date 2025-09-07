@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757266699435,
+  "timestamp": 1757266750263,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
@@ -7,7 +7,7 @@
   "winRate": 0,
   "strategies": {
     "Blastoise_GoldenMantine": {
-      "attempts": 144,
+      "attempts": 145,
       "wins": 0,
       "losses": 112,
       "avgTurns": 0,
@@ -30,14 +30,14 @@
   },
   "moveEffectiveness": {
     "unknown": {
-      "uses": 167,
+      "uses": 168,
       "effectiveness": -56,
       "pokemon": "GoldenMantine"
     }
   },
   "pokemonPerformance": {
     "GoldenMantine": {
-      "battles": 167,
+      "battles": 168,
       "wins": 0,
       "losses": 112,
       "effectiveness": 0,
@@ -45,14 +45,6 @@
     }
   },
   "recentBattles": [
-    {
-      "timestamp": 1757265842976,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
     {
       "timestamp": 1757265844156,
       "currentPokemon": "GoldenMantine",
@@ -439,6 +431,14 @@
     },
     {
       "timestamp": 1757266680515,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Bounce!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757266703542,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
       "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Bounce!",
