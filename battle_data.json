@@ -1,31 +1,31 @@
 {
-  "timestamp": 1757265527914,
+  "timestamp": 1757265764566,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
-  "losses": 0,
+  "losses": 26,
   "winRate": 0,
   "strategies": {
     "Blastoise_GoldenMantine": {
-      "attempts": 4,
+      "attempts": 41,
       "wins": 0,
-      "losses": 0,
+      "losses": 27,
       "avgTurns": 0,
       "effectiveness": 0
     }
   },
   "moveEffectiveness": {
     "unknown": {
-      "uses": 4,
-      "effectiveness": 0,
+      "uses": 41,
+      "effectiveness": -13.5,
       "pokemon": "GoldenMantine"
     }
   },
   "pokemonPerformance": {
     "GoldenMantine": {
-      "battles": 4,
+      "battles": 41,
       "wins": 0,
-      "losses": 0,
+      "losses": 27,
       "effectiveness": 0,
       "moves": {}
     }
@@ -62,11 +62,299 @@
       "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265719791,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265725790,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine hurt itself in it's confusion!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!ShinyBlastoise took trap damage!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265730928,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine hurt itself in it's confusion!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265731918,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine hurt itself in it's confusion!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265732923,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine hurt itself in it's confusion!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack wasn't very effective!GoldenMantine  became confused!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265733908,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine hurt itself in it's confusion!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack wasn't very effective!GoldenMantine  became confused!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265734930,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265735919,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265736917,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265737919,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265738909,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265739915,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265740918,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265741908,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265742915,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265743920,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265744918,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265745916,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265746916,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265747908,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265748919,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265749917,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265750916,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265751918,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265752920,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265753915,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265754908,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265755917,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265756915,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265757915,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265758907,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265759912,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265760916,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265761915,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265762916,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757265763918,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
     }
   ],
   "aiSettings": {
     "learningRate": 0.1,
     "explorationRate": 0.3,
-    "currentStrategy": "none"
+    "currentStrategy": "GoldenMantine"
   }
 }
