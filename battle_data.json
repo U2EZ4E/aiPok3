@@ -1,27 +1,27 @@
 {
-  "timestamp": 1757951909242,
+  "timestamp": 1757954023175,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
-  "losses": 112,
+  "losses": 199,
   "winRate": 0,
   "strategies": {
     "Blastoise_GoldenMantine": {
-      "attempts": 145,
+      "attempts": 256,
       "wins": 0,
-      "losses": 112,
+      "losses": 199,
       "avgTurns": 0,
       "effectiveness": 0
     },
     "Swampert_GoldenDecidueye": {
-      "attempts": 2,
+      "attempts": 4,
       "wins": 0,
       "losses": 0,
       "avgTurns": 0,
       "effectiveness": 0
     },
     "Unknown_GoldenDecidueye": {
-      "attempts": 18,
+      "attempts": 29,
       "wins": 0,
       "losses": 0,
       "avgTurns": 0,
@@ -30,16 +30,16 @@
   },
   "moveEffectiveness": {
     "unknown": {
-      "uses": 172,
-      "effectiveness": -56,
+      "uses": 297,
+      "effectiveness": -99.5,
       "pokemon": "GoldenMantine"
     }
   },
   "pokemonPerformance": {
     "GoldenMantine": {
-      "battles": 168,
+      "battles": 293,
       "wins": 0,
-      "losses": 112,
+      "losses": 199,
       "effectiveness": 0,
       "moves": {}
     },
@@ -53,39 +53,303 @@
   },
   "recentBattles": [
     {
-      "timestamp": 1757265858909,
+      "timestamp": 1757952023193,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265859911,
+      "timestamp": 1757952024241,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265860951,
+      "timestamp": 1757952025190,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265861912,
+      "timestamp": 1757952026221,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265862946,
+      "timestamp": 1757952027178,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952028225,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952029184,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952030225,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952031187,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952032234,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952033176,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952034227,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952035178,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952036218,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952037176,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952038228,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952039190,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952042160,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952045335,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952053420,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952064494,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952113202,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952113474,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952114492,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952115474,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952116486,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952117473,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952118498,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952119477,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952120501,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952121473,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952122497,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952123474,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952124493,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952125473,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952126493,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952127473,
+      "currentPokemon": "GoldenMantine",
+      "opponentPokemon": "Blastoise",
+      "battleText": "GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!GoldenMantine was unaffected!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,945 experience!",
+      "strategy": "GoldenMantine",
+      "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757952128527,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Swampert",
       "battleText": "DarkSwampert came out!",
@@ -93,7 +357,7 @@
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265863910,
+      "timestamp": 1757952129474,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Swampert",
       "battleText": "DarkSwampert came out!",
@@ -101,356 +365,92 @@
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265865119,
+      "timestamp": 1757952130494,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Water Pulse!DarkSwampert's attack wasn't very effective!GoldenMantine is confused!GoldenMantine used Bounce!",
+      "battleText": "DarkSwampert used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265865988,
+      "timestamp": 1757952131477,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Water Pulse!DarkSwampert's attack wasn't very effective!GoldenMantine is confused!GoldenMantine used Bounce!",
+      "battleText": "DarkSwampert used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265867023,
+      "timestamp": 1757952132492,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack missed!GoldenMantine returned to the field!GoldenMantine is confused!GoldenMantine hurt itself in it's confusion!",
+      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack was a critical hit!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265867995,
+      "timestamp": 1757952133477,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack missed!GoldenMantine returned to the field!GoldenMantine is confused!GoldenMantine hurt itself in it's confusion!",
+      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack was a critical hit!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265869007,
+      "timestamp": 1757952134504,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Powder Snow!DarkSwampert's attack was a critical hit!GoldenMantine used Roost!GoldenMantine regained health!",
+      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack wasn't very effective!DarkSwampert's attack was a critical hit!GoldenMantine  has been trapped!GoldenMantine used Bounce!GoldenMantine took trap damage!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265869912,
+      "timestamp": 1757952135473,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Powder Snow!DarkSwampert's attack was a critical hit!GoldenMantine used Roost!GoldenMantine regained health!",
+      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack wasn't very effective!DarkSwampert's attack was a critical hit!GoldenMantine  has been trapped!GoldenMantine used Bounce!GoldenMantine took trap damage!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265870996,
+      "timestamp": 1757952136487,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "Araquanid came out!DarkSwampert used Powder Snow!DarkSwampert's attack wasn't very effective!",
+      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine took trap damage!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265871911,
+      "timestamp": 1757952137473,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "Araquanid came out!DarkSwampert used Powder Snow!DarkSwampert's attack wasn't very effective!",
+      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine took trap damage!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265873017,
+      "timestamp": 1757952138491,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack wasn't very effective!Araquanid used Heal Order!Araquanid regained health!",
+      "battleText": "DarkSwampert used Water Pulse!DarkSwampert's attack wasn't very effective!GoldenMantine used Bounce!GoldenMantine took trap damage!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265873909,
+      "timestamp": 1757952139487,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack wasn't very effective!Araquanid used Heal Order!Araquanid regained health!",
+      "battleText": "DarkSwampert used Water Pulse!DarkSwampert's attack wasn't very effective!GoldenMantine used Bounce!GoldenMantine took trap damage!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757265875033,
+      "timestamp": 1757952140476,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack wasn't very effective!DarkSwampert's attack was a critical hit!Araquanid  has been trapped!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
+      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack was a critical hit!GoldenMantine took trap damage!",
       "strategy": "GoldenDecidueye",
       "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265875909,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack wasn't very effective!DarkSwampert's attack was a critical hit!Araquanid  has been trapped!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
-      "strategy": "GoldenDecidueye",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265877022,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack wasn't very effective!Araquanid  has been trapped!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
-      "strategy": "GoldenDecidueye",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265877910,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Whirlpool!DarkSwampert's attack wasn't very effective!Araquanid  has been trapped!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
-      "strategy": "GoldenDecidueye",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265892979,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack wasn't very effective!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
-      "strategy": "GoldenDecidueye",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265894005,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Earth Power!DarkSwampert's attack wasn't very effective!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
-      "strategy": "GoldenDecidueye",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265894984,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Water Pulse!DarkSwampert's attack wasn't very effective!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
-      "strategy": "GoldenDecidueye",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265895910,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "DarkSwampert used Water Pulse!DarkSwampert's attack wasn't very effective!Araquanid used Heal Order!Araquanid regained health!Araquanid took trap damage!",
-      "strategy": "GoldenDecidueye",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266660501,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "",
-      "strategy": "none",
-      "action": "none"
-    },
-    {
-      "timestamp": 1757266661504,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "",
-      "strategy": "none",
-      "action": "none"
-    },
-    {
-      "timestamp": 1757266662510,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Unknown",
-      "battleText": "",
-      "strategy": "none",
-      "action": "attack"
-    },
-    {
-      "timestamp": 1757266663510,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine's status changed!GoldenMantine is frozen!",
-      "strategy": "GoldenMantine",
-      "action": "attack"
-    },
-    {
-      "timestamp": 1757266664501,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine's status changed!GoldenMantine is frozen!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266665505,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine is frozen!GoldenMantine thawed out!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266666509,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine is frozen!GoldenMantine thawed out!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266667520,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack was a critical hit!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266668501,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack was a critical hit!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266669508,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Roost!GoldenMantine regained health!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266670516,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Roost!GoldenMantine regained health!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266671509,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266672500,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266673517,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack was a critical hit!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266674500,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack was a critical hit!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266675524,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266676502,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266677532,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266678501,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!ShinyBlastoise's attack missed!GoldenMantine returned to the field!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266679509,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266680515,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757266703542,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Bounce!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757951349805,
-      "currentPokemon": null,
-      "opponentPokemon": "Unknown",
-      "battleText": "",
-      "strategy": "none",
-      "action": "none"
-    },
-    {
-      "timestamp": 1757951350820,
-      "currentPokemon": null,
-      "opponentPokemon": "Unknown",
-      "battleText": "",
-      "strategy": "none",
-      "action": "none"
-    },
-    {
-      "timestamp": 1757951351807,
-      "currentPokemon": null,
-      "opponentPokemon": "Unknown",
-      "battleText": "",
-      "strategy": "none",
-      "action": "none"
-    },
-    {
-      "timestamp": 1757951352805,
-      "currentPokemon": null,
-      "opponentPokemon": "Unknown",
-      "battleText": "",
-      "strategy": "none",
-      "action": "none"
     }
   ],
   "aiSettings": {
