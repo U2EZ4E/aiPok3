@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757951342335,
+  "timestamp": 1757951400811,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
@@ -30,7 +30,7 @@
   },
   "moveEffectiveness": {
     "unknown": {
-      "uses": 168,
+      "uses": 172,
       "effectiveness": -56,
       "pokemon": "GoldenMantine"
     }
@@ -42,41 +42,16 @@
       "losses": 112,
       "effectiveness": 0,
       "moves": {}
+    },
+    "null": {
+      "battles": 4,
+      "wins": 0,
+      "losses": 0,
+      "effectiveness": 0,
+      "moves": {}
     }
   },
   "recentBattles": [
-    {
-      "timestamp": 1757265844156,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265845933,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265857159,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
-    {
-      "timestamp": 1757265857911,
-      "currentPokemon": "GoldenMantine",
-      "opponentPokemon": "Blastoise",
-      "battleText": "GoldenMantine is confused!GoldenMantine used Whirlpool!GoldenMantine's attack wasn't very effective!GoldenMantine's attack was a critical hit!ShinyBlastoise  has been trapped!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack missed!GoldenMantine took trap damage!ShinyBlastoise took trap damage!ShinyBlastoise fainted!GoldenMantine gained 126,756 experience!",
-      "strategy": "GoldenMantine",
-      "action": "strategic_move"
-    },
     {
       "timestamp": 1757265858909,
       "currentPokemon": "GoldenMantine",
@@ -444,6 +419,38 @@
       "battleText": "ShinyBlastoise used Powder Snow!GoldenMantine used Bounce!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
+    },
+    {
+      "timestamp": 1757951349805,
+      "currentPokemon": null,
+      "opponentPokemon": "Unknown",
+      "battleText": "",
+      "strategy": "none",
+      "action": "none"
+    },
+    {
+      "timestamp": 1757951350820,
+      "currentPokemon": null,
+      "opponentPokemon": "Unknown",
+      "battleText": "",
+      "strategy": "none",
+      "action": "none"
+    },
+    {
+      "timestamp": 1757951351807,
+      "currentPokemon": null,
+      "opponentPokemon": "Unknown",
+      "battleText": "",
+      "strategy": "none",
+      "action": "none"
+    },
+    {
+      "timestamp": 1757951352805,
+      "currentPokemon": null,
+      "opponentPokemon": "Unknown",
+      "battleText": "",
+      "strategy": "none",
+      "action": "none"
     }
   ],
   "aiSettings": {
