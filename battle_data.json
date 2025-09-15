@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757956983093,
+  "timestamp": 1757957159465,
   "version": "2.0",
   "totalBattles": 0,
   "wins": 0,
@@ -7,7 +7,7 @@
   "winRate": 0,
   "strategies": {
     "Blastoise_GoldenMantine": {
-      "attempts": 341,
+      "attempts": 406,
       "wins": 0,
       "losses": 199,
       "avgTurns": 0,
@@ -28,7 +28,7 @@
       "effectiveness": 0
     },
     "Unknown_GoldenMantine": {
-      "attempts": 3,
+      "attempts": 6,
       "wins": 0,
       "losses": 0,
       "avgTurns": 0,
@@ -37,14 +37,14 @@
   },
   "moveEffectiveness": {
     "unknown": {
-      "uses": 385,
+      "uses": 453,
       "effectiveness": -99.5,
       "pokemon": "GoldenMantine"
     }
   },
   "pokemonPerformance": {
     "GoldenMantine": {
-      "battles": 381,
+      "battles": 449,
       "wins": 0,
       "losses": 199,
       "effectiveness": 0,
@@ -60,402 +60,402 @@
   },
   "recentBattles": [
     {
-      "timestamp": 1757954373186,
+      "timestamp": 1757957062565,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack wasn't very effective!ShinyBlastoise's attack was a critical hit!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954374185,
+      "timestamp": 1757957063561,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954375183,
+      "timestamp": 1757957064562,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954376180,
+      "timestamp": 1757957065562,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954378157,
+      "timestamp": 1757957066561,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954380156,
+      "timestamp": 1757957067571,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954382162,
+      "timestamp": 1757957068560,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954384162,
+      "timestamp": 1757957069566,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954386168,
+      "timestamp": 1757957070560,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954388168,
+      "timestamp": 1757957071563,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954390157,
+      "timestamp": 1757957072572,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954392168,
+      "timestamp": 1757957073571,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!ShinyBlastoise's attack was a critical hit!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954394163,
+      "timestamp": 1757957074614,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!ShinyBlastoise's attack was a critical hit!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954395179,
+      "timestamp": 1757957075604,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954396188,
+      "timestamp": 1757957076564,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954397181,
+      "timestamp": 1757957077573,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954399173,
+      "timestamp": 1757957078564,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954401179,
+      "timestamp": 1757957079587,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954403177,
+      "timestamp": 1757957080564,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954404220,
+      "timestamp": 1757957081589,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954406171,
+      "timestamp": 1757957082567,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954408159,
+      "timestamp": 1757957083572,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954410162,
+      "timestamp": 1757957084564,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954412171,
+      "timestamp": 1757957085578,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954414160,
+      "timestamp": 1757957086557,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954416165,
+      "timestamp": 1757957087573,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954418168,
+      "timestamp": 1757957088558,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Earth Power!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954420164,
+      "timestamp": 1757957089570,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954422167,
+      "timestamp": 1757957090563,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954424167,
+      "timestamp": 1757957091579,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack missed!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954426168,
+      "timestamp": 1757957092562,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack missed!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954428167,
+      "timestamp": 1757957141292,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack missed!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954430156,
+      "timestamp": 1757957142305,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954432170,
+      "timestamp": 1757957143289,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Whirlpool!ShinyBlastoise's attack wasn't very effective!GoldenMantine  has been trapped!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954434161,
+      "timestamp": 1757957144287,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954436168,
+      "timestamp": 1757957145283,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954438171,
+      "timestamp": 1757957146288,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954440159,
+      "timestamp": 1757957147283,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's attack missed!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954442165,
+      "timestamp": 1757957148286,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!ShinyBlastoise's attack was a critical hit!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954444177,
+      "timestamp": 1757957149284,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise used Powder Snow!ShinyBlastoise's attack was a critical hit!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954446171,
+      "timestamp": 1757957150284,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954448171,
+      "timestamp": 1757957151293,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack missed!GoldenMantine took trap damage!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954450161,
+      "timestamp": 1757957152292,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack wasn't very effective!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954452165,
+      "timestamp": 1757957153292,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!GoldenMantine's move failed!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack wasn't very effective!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954454165,
+      "timestamp": 1757957154294,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954456167,
+      "timestamp": 1757957155292,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Roost!GoldenMantine regained health!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954484162,
+      "timestamp": 1757957156310,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954544225,
+      "timestamp": 1757957157291,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise couldn't move!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954604228,
+      "timestamp": 1757957158291,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack wasn't very effective!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     },
     {
-      "timestamp": 1757954626017,
+      "timestamp": 1757957159291,
       "currentPokemon": "GoldenMantine",
       "opponentPokemon": "Blastoise",
-      "battleText": "ShinyBlastoise used Earth Power!GoldenMantine was unaffected!GoldenMantine used Bounce!You have left this battle. This battle has ended.",
+      "battleText": "GoldenMantine returned to the field!GoldenMantine used Bounce!ShinyBlastoise is paralyzed!ShinyBlastoise used Water Pulse!ShinyBlastoise's attack wasn't very effective!",
       "strategy": "GoldenMantine",
       "action": "strategic_move"
     }
@@ -463,6 +463,6 @@
   "aiSettings": {
     "learningRate": 0.1,
     "explorationRate": 0.3,
-    "currentStrategy": "none"
+    "currentStrategy": "GoldenMantine"
   }
 }
